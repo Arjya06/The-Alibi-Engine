@@ -1,0 +1,6 @@
+{
+  "name": "The Alibi Engine",
+  "description": "An intelligent excuse generator that provides context-aware, customizable, and proof-backed excuses for various scenarios. It ranks options and generates corresponding apologies to fit the situation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
